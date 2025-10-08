@@ -25,104 +25,6 @@
 
 <hr/>
 
-<!-- Helper: chip style (inline on each) 
-     Using white background chips so dark-mode black logos remain visible. -->
-
-<!-- TECH STACK -->
-<h2>⚙️ Tech Stack</h2>
-<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:flex-start;">
-
-  <!-- HTML5 -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5">
-    <span><b>HTML5</b></span>
-  </div>
-
-  <!-- CSS3 -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3">
-    <span><b>CSS3</b></span>
-  </div>
-
-  <!-- JavaScript -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript">
-    <span><b>JavaScript</b></span>
-  </div>
-
-  <!-- TypeScript -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript">
-    <span><b>TypeScript</b></span>
-  </div>
-
-  <!-- Java -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java">
-    <span><b>Java</b></span>
-  </div>
-
-  <!-- C (fixed icon) -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" height="28" alt="C">
-    <span><b>C</b></span>
-  </div>
-
-  <!-- Python -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python">
-    <span><b>Python</b></span>
-  </div>
-
-  <!-- Arduino -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="28" height="28" alt="Arduino">
-    <span><b>Arduino</b></span>
-  </div>
-
-  <!-- Bash -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" height="28" alt="Bash">
-    <span><b>Bash</b></span>
-  </div>
-
-  <!-- Angular -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="28" height="28" alt="Angular">
-    <span><b>Angular</b></span>
-  </div>
-
-  <!-- React (highlighted) -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:2px solid #60a5fa; border-radius:14px; box-shadow:0 0 0 3px rgba(96,165,250,.15);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React">
-    <span><b>React</b></span>
-  </div>
-
-  <!-- Next.js (black logo made visible on white chip) -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:2px solid #111827; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js">
-    <span><b>Next.js</b></span>
-  </div>
-
-  <!-- Tailwind CSS -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:2px solid #22d3ee; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="Tailwind CSS">
-    <span><b>Tailwind</b></span>
-  </div>
-
-  <!-- Firebase -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:2px solid #f59e0b; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28" height="28" alt="Firebase">
-    <span><b>Firebase</b></span>
-  </div>
-
-  <!-- Supabase (black/green — safe on white chip) -->
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:2px solid #10b981; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/supabase.svg" width="28" height="28" alt="Supabase">
-    <span><b>Supabase</b></span>
-  </div>
-</div>
-
 <!-- CONTACT -->
 <h2>📫 Contact</h2>
 <p>
@@ -135,60 +37,52 @@
   </a>
 </p>
 
+<!-- TECH STACK -->
+<h2>⚙️ Tech Stack</h2>
+<span>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+
+</span>
+
 <!-- DATABASES -->
 <h2>🗄️ Databases</h2>
-<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:flex-start;">
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" width="28" height="28" alt="SQLite">
-    <span><b>SQLite</b></span>
-  </div>
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL">
-    <span><b>MySQL</b></span>
-  </div>
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28" alt="PostgreSQL">
-    <span><b>PostgreSQL</b></span>
-  </div>
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB">
-    <span><b>MongoDB</b></span>
-  </div>
-</div>
+<span>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</span>
 
 <!-- SYSTEMS / VIRTUALIZATION -->
 <h2>🛠️ Systems & Virtualization</h2>
-<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:flex-start;">
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kalilinux.svg" width="28" height="28" alt="Kali Linux">
-    <span><b>Kali</b></span>
-  </div>
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/virtualbox.svg" width="28" height="28" alt="VirtualBox">
-    <span><b>VirtualBox</b></span>
-  </div>
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" height="28" alt="Linux">
-    <span><b>Linux</b></span>
-  </div>
-</div>
+<span>
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"/>
+
+</span>
 
 <!-- ETHICAL HACKING TOOLS -->
 <h2>🧪 Ethical Hacking Tools</h2>
-<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:flex-start;">
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/burpsuite.svg" width="28" height="28" alt="Burp Suite">
-    <span><b>Burp Suite</b></span>
-  </div>
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nmap.svg" width="28" height="28" alt="Nmap">
-    <span><b>Nmap</b></span>
-  </div>
-  <div style="display:flex; align-items:center; gap:8px; padding:10px 14px; background:#ffffff; border:1px solid #e5e7eb; border-radius:14px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/metasploit.svg" width="28" height="28" alt="Metasploit">
-    <span><b>Metasploit</b></span>
-  </div>
-</div>
+<span>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</span>
 
 <!-- MOST USED LANGUAGES -->
 <h2>📊 Most Used Languages</h2>
@@ -197,9 +91,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarLopezGuillen&layout=compact&langs_count=10&theme=transparent"
     alt="Top Languages - GitHub Readme Stats"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=OmarLopezGuillen&show_icons=true&theme=transparent"
     alt="GitHub Stats"
